@@ -105,11 +105,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrador\\source\\repos\\EfiAtendimentoApi\\EfiAtendimentoApi.csproj",
+      "projectUniqueName": "C:\\Users\\Administrador\\Desktop\\API\\EfiAtendimento_Api\\EfiAtendimentoApi.csproj",
       "projectName": "EfiAtendimentoApi",
-      "projectPath": "C:\\Users\\Administrador\\source\\repos\\EfiAtendimentoApi\\EfiAtendimentoApi.csproj",
+      "projectPath": "C:\\Users\\Administrador\\Desktop\\API\\EfiAtendimento_Api\\EfiAtendimentoApi.csproj",
       "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrador\\source\\repos\\EfiAtendimentoApi\\obj\\",
+      "outputPath": "C:\\Users\\Administrador\\Desktop\\API\\EfiAtendimento_Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
