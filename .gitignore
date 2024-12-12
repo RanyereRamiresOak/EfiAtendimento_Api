@@ -1,0 +1,46 @@
+# .NET
+bin/
+obj/
+
+# User-specific files
+.vs/
+.vscode/
+.idea/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Rider
+.idea/
+
+# JetBrains Rider .idea directory
+.idea/
+
+# User-specific files
+.vs2019/
+.vs2017/
+
+# Node.js
+node_modules/
+
+# Npm logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# dotenv files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Microsoft Azure Functions
+local.settings.json
+
+# Azure Pipelines
+.vsts/
