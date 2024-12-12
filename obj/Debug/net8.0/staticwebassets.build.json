@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "C183k6dWDASX6IHgtIbimBUJbf3j/vtYRX0FleeR3xU=",
+  "Source": "EfiAtendimentoApi",
+  "BasePath": "_content/EfiAtendimentoApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
